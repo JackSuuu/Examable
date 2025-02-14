@@ -1,0 +1,7 @@
+scipy
+pymupdf
+PyPDF2
+pytesseract
+pillow
+scipy
+PyQt5
