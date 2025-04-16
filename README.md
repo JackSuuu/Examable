@@ -73,7 +73,7 @@
 
    - Use the GUI to select the subject area.
    - Input your query into the search bar.
-   - The application will process the query, perform OCR on relevant documents, and display matching questions and answers.
+   - The application will process the query, perform OCR on relevant documents, and display matching questions and answers.
 
 ---
 
@@ -121,10 +121,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-**Jack Suuuu**
+**Jack Suuuu**
 
 - GitHub: [JackSuuu](https://github.com/JackSuuu)
-- University of Edinburgh, BSc Computer Science Student
+- University of Edinburgh, BSc Computer Science Student
 
 ---
 
