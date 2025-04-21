@@ -1,3 +1,0 @@
-([('Examable',
-   '/Users/jack/Desktop/project/Examable.1.0/dist/Examable',
-   'EXECUTABLE')],)
